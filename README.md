@@ -37,7 +37,8 @@ admin/admin
 - ![telnet login](screenshots/telnet_login.png)
 <img width="1147" height="648" alt="image" src="https://github.com/user-attachments/assets/40da0e67-e3bf-4eba-9d64-7041e9aa22d2" />
 
-![Uploading image.png…]()
+cpio-root/sbin/internet.sh
+<img width="903" height="717" alt="image" src="https://github.com/user-attachments/assets/1b2d5067-12b0-4b54-8b38-ac7a8e80f4aa" />
 
 
 ## Impact
