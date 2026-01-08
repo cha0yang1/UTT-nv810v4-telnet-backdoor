@@ -31,10 +31,9 @@ admin/admin
 
 
 ## Screenshots
-- ![nmap scan](screenshots/nmap.png)
+
 <img width="1138" height="262" alt="image" src="https://github.com/user-attachments/assets/b11c7203-e367-45fa-89bb-360a26609ede" />
   
-- ![telnet login](screenshots/telnet_login.png)
 <img width="1147" height="648" alt="image" src="https://github.com/user-attachments/assets/40da0e67-e3bf-4eba-9d64-7041e9aa22d2" />
 
 cpio-root/sbin/internet.sh
@@ -49,4 +48,8 @@ cpio-root/sbin/internet.sh
 ## Disclosure Timeline
 - Discovered: January 08, 2026
 - Public Disclosure: January 08, 2026
+
+Discovered by: cha0yang1
+Firmware extracted via SPI programmer from physical device.
+<img width="1235" height="931" alt="image" src="https://github.com/user-attachments/assets/e986bac3-da5e-4023-9b66-0bbf245001c1" />
 
