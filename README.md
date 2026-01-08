@@ -12,6 +12,8 @@ This allows remote attackers to gain full root access to the device.
 ## Affected Versions
 - Confirmed: **v1.5.0-140603**
 - Likely affected: earlier versions of HiPER 810 / nv810v4 series
+<img width="2239" height="1365" alt="image" src="https://github.com/user-attachments/assets/edc5188c-4d82-41b5-96c6-4c24a87e4f1e" />
+
 
 ## Proof of Concept
 
